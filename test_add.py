@@ -8,4 +8,4 @@ class TestAddFunction(unittest.TestCase);
     self.assertEqual(add(0,0), 0)
 
 if __name__ == "__main__":
-  unitest.main()
+  unittest.main()
