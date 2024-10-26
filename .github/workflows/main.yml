@@ -3,7 +3,7 @@ on:
 
 jobs:
   say_hello_goodbye:
-    runs_on: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Say Hello
         run: echo "Hello, World"
